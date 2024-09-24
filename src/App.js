@@ -1,14 +1,14 @@
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
-import Feed from './Pages/Feed';
-import Dashboard from './Components/Dashboard';
-import Technology from './Pages/Technology';
-import Business from './Pages/Business';
-import Saved from './Pages/Saved';
+// import Feed from './Pages/Feed';
+// import Dashboard from './Components/Dashboard';
+// import Technology from './Pages/Technology';
+// import Business from './Pages/Business';
+// import Saved from './Pages/Saved';
 
 
 import { useState, useEffect, useRef } from 'react';
-import Home from './Pages/Home';
+// import Home from './Pages/Home';
 import Wheather from './Components/Wheather';
 import Stock from './Components/Stock';
 
